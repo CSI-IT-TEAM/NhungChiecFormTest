@@ -38,8 +38,6 @@ namespace NhungChiecFormTest
         {
             try
             {
-             
-
                 toolTipController1.ToolTipType = ToolTipType.Default;
                 toolTipController1.Appearance.Font = new System.Drawing.Font("Time New Roman", 12, FontStyle.Bold ^ FontStyle.Italic);
                 toolTipController1.Appearance.ForeColor = Color.Blue;
